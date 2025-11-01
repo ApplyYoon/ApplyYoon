@@ -21,9 +21,7 @@ I'm a developer passionate about **system programming**, **networking**, and **b
 
 #### Tools & Environments
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GDB](https://img.shields.io/badge/-GDB-5C2D91?style=for-the-badge&logo=gnu&logoColor=white)
 
 ---
 
