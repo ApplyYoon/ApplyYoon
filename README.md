@@ -33,7 +33,7 @@ I'm a developer passionate about **system programming**, **networking**, and **b
 ---
 
 ### 🧮 Algorithm Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID)](https://solved.ac/profile/yoonapply)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonapply)](https://solved.ac/profile/yoonapply)
 
 ---
 
