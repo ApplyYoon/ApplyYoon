@@ -2,7 +2,8 @@
 
 I'm a developer passionate about **system programming**, **networking**, and **backend engineering**.  
 
-### 🛠 Tech Stack
+### 🧮 Algorithm Stats
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonapply)](https://solved.ac/profile/yoonapply)
 
 #### Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -29,11 +30,6 @@ I'm a developer passionate about **system programming**, **networking**, and **b
 - 🔴 [Red-Black Tree in C](#) — A balanced binary search tree with rotation logic and debug visualization.
 - 🌐 [Socket Playground](#) — Experiments with TCP/UDP sockets and connection handling.
 - ⚙️ [Custom Memory Allocator](#) — Implementation of malloc/free-like behavior for system-level practice.
-
----
-
-### 🧮 Algorithm Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonapply)](https://solved.ac/profile/yoonapply)
 
 ---
 
