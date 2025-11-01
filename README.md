@@ -1,12 +1,28 @@
 # include <yoonio.h>
 
+# 👋 Hi, I'm ApplyYoon
+
+I'm a developer passionate about **system programming**, **networking**, and **backend engineering**.  
+Currently exploring how low-level concepts like memory, data structures, and sockets can be used to build efficient systems.  
+🚀 Student Developer @ **Krafton Jungle**
+
+
+---
+
 ### 🛠 Tech Stack
 
 #### Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JSP](https://img.shields.io/badge/-JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+
+#### Frameworks
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 #### Tools & Environments
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -25,11 +41,11 @@
 
 ### 📫 Contact
 [![Gmail](https://img.shields.io/badge/-applyyoon.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:applyyoon.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/-@applyyoon--dev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/applyyoon-dev)
+[![GitHub](https://img.shields.io/badge/-@ApplyYoon-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ApplyYoon)
 
 ---
 
 ### ⚡ GitHub Stats
 
-![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=applyyoon-dev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=applyyoon-dev&layout=compact&theme=tokyonight)
+![ApplyYoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApplyYoon&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApplyYoon&layout=compact&theme=tokyonight)
