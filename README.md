@@ -2,8 +2,6 @@
 
 I'm a developer passionate about **system programming**, **networking**, and **backend engineering**.  
 
----
-
 ### 🛠 Tech Stack
 
 #### Languages
@@ -21,7 +19,9 @@ I'm a developer passionate about **system programming**, **networking**, and **b
 
 #### Tools & Environments
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GDB](https://img.shields.io/badge/-GDB-5C2D91?style=for-the-badge&logo=gnu&logoColor=white)
 
 ---
 
@@ -32,8 +32,13 @@ I'm a developer passionate about **system programming**, **networking**, and **b
 
 ---
 
+### 🧮 Algorithm Stats
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID)](https://solved.ac/profile/yoonapply)
+
+---
+
 ### 📫 Contact
-[![Gmail](https://img.shields.io/badge/-applyyoon.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:applyyoon.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/-include.yoonio.h@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:include.yoonio.h@gmail.com)
 [![GitHub](https://img.shields.io/badge/-@ApplyYoon-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ApplyYoon)
 
 ---
