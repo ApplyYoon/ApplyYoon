@@ -2,8 +2,9 @@
 
 I'm a developer passionate about **system programming**, **networking**, and **backend engineering**.  
 
-### 🧮 Algorithm Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonapply)](https://solved.ac/profile/yoonapply)
+![ApplyYoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApplyYoon&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApplyYoon&layout=compact&theme=tokyonight)
 
 #### Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -36,10 +37,3 @@ I'm a developer passionate about **system programming**, **networking**, and **b
 ### 📫 Contact
 [![Gmail](https://img.shields.io/badge/-include.yoonio.h@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:include.yoonio.h@gmail.com)
 [![GitHub](https://img.shields.io/badge/-@ApplyYoon-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ApplyYoon)
-
----
-
-### ⚡ GitHub Stats
-
-![ApplyYoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApplyYoon&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApplyYoon&layout=compact&theme=tokyonight)
