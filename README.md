@@ -5,7 +5,6 @@ I'm a developer passionate about **system programming**, **networking**, and **b
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonapply)](https://solved.ac/profile/yoonapply)  
 ![ApplyYoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApplyYoon&show_icons=true&theme=tokyonight)
-[![Duolingo](https://img.shields.io/badge/Duolingo-0A0A0A?style=for-the-badge&logo=duolingo&logoColor=1CBF00)](https://www.duolingo.com/profile/ApplyYoon)
 
 ---
 
