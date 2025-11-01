@@ -5,12 +5,13 @@ I'm a developer passionate about **system programming**, **networking**, and **b
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonapply)](https://solved.ac/profile/yoonapply)  
 ![ApplyYoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApplyYoon&show_icons=true&theme=tokyonight)
+[![Duolingo](https://img.shields.io/badge/Duolingo-0A0A0A?style=for-the-badge&logo=duolingo&logoColor=1CBF00)](https://www.duolingo.com/profile/ApplyYoon)
 
 ---
 
 #### Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)0
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
