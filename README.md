@@ -1,11 +1,6 @@
 # include <yoonio.h>
 
-# 👋 Hi, I'm ApplyYoon
-
 I'm a developer passionate about **system programming**, **networking**, and **backend engineering**.  
-Currently exploring how low-level concepts like memory, data structures, and sockets can be used to build efficient systems.  
-🚀 Student Developer @ **Krafton Jungle**
-
 
 ---
 
