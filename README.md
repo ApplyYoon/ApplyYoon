@@ -1,13 +1,6 @@
 # include <yoonio.h>
 I'm a developer passionate about **system programming**, **networking**, and **backend engineering**.  
 
---- 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonapply)](https://solved.ac/profile/yoonapply)  
-![ApplyYoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApplyYoon&show_icons=true&theme=tokyonight)
-
----
-
 #### Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)0
